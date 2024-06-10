@@ -1,0 +1,26 @@
+{
+  "name": "esii-cicd-isprime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Augusto/ESII-CICD-IsPrime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-Augusto/ESII-CICD-IsPrime/issues"
+  },
+  "homepage": "https://github.com/Alan-Augusto/ESII-CICD-IsPrime#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
