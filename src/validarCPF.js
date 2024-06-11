@@ -1,4 +1,7 @@
 function validarCPF(cpf) {
+  // Verifica se o CPF é uma string
+  if (typeof cpf !== 'string') return false;
+  
   // Remove caracteres especiais
   cpf = cpf.replace(/[^0-9]/g, '');
 
