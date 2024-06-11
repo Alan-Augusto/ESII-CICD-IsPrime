@@ -14,7 +14,15 @@ Este repositório contém o projeto **ESII-CICD-ValidationCPF**, desenvolvido co
 
 ## 🌟 Introdução
 
-Este projeto implementa uma simples validação de CPF (Cadastro de Pessoas Físicas) no Brasil. Inclui uma interface web para entrada de CPF e validação, além de testes automatizados para garantir a precisão da validação.
+Este projeto implementa uma simples validação de CPF (Cadastro de Pessoas Físicas) no Brasil. 
+Inclui uma interface web para entrada de CPF e validação, além de testes automatizados para garantir a precisão da validação.
+
+### 🎨 Interface web
+![image](https://github.com/Alan-Augusto/ESII-CICD-ValidationCPF/assets/78389806/e3744a9a-9b0e-4ef6-aa68-f43293032fec)
+
+### ✅ Testes
+![image](https://github.com/Alan-Augusto/ESII-CICD-ValidationCPF/assets/78389806/6ea4632b-a9a2-45e8-beca-fe2921c0935c)
+
 
 ## ⚙️ Funcionalidades
 
@@ -84,4 +92,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ---
 
-Elab por Alan Augusto para o curso de Engenharia de Software II na UFMG.
+Elaborado por [Alan Augusto](https://github.com/Alan-Augusto) para o curso de Engenharia de Software II na UFMG.
