@@ -14,6 +14,10 @@ describe('Validação de CPF', () => {
     expect(validarCPF('80912095687')).toBe(true);
   });
 
+  test('CPF válido: 49294598691', () => {
+    expect(validarCPF('49294598691')).toBe(true);
+  });
+
   test('CPF válido: 97097560606', () => {
     expect(validarCPF('97097560606')).toBe(true);
   });
